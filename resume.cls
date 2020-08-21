@@ -839,6 +839,7 @@
 \newcommand{\mysidestyle}{\small\sc}
 \newcommand{\myheadingstyle}{\sl}
 \newcommand{\mysubheadingstyle}{\sl}
+\newcommand{\mysubheadingstyle}{\sm}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
